@@ -1,5 +1,9 @@
 # React + Vite
 
+Hello here is my last React Odin Project. I used React + Vite + Tailwind to create this.
+
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:

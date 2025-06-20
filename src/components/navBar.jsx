@@ -5,9 +5,9 @@ function NavBar() {
     <nav className="bg-blue-100">
       <div className="max-w-screen-xl mx-auto flex items-center justify-between p-4">
         
-        <span className="text-2xl font-poppins font-bold text-white bg-blue-500 rounded-xl px-4 py-2 shadow-sm hover:bg-blue-400 transition-colors">
+        <Link to="/" className="text-2xl font-poppins font-bold text-white bg-blue-500 rounded-xl px-4 py-2 shadow-sm hover:bg-blue-400 transition-colors">
           My Shopping Cart
-        </span>
+        </Link>
 
         <ul className="flex gap-4">
           <li>
